@@ -1,0 +1,2 @@
+A hierarchy (from the Greek hierarchia, "rule of a high priest", from hierarkhes, "leader of sacred rites") is an arrangement of items (objects, names, values, categories, etc.) in which the items are represented as being "above," "below," or "at the same level as" one another.
+A hierarchy can link entities either directly or indirectly, and either vertically or diagonally. 

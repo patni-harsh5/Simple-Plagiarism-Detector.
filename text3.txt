@@ -1,0 +1,2 @@
+The first aids to computation were purely mechanical devices which required the operator to set up the initial values of an elementary arithmetic operation, then manipulate the device to obtain the result. Later, computers represented numbers in a continuous form, for instance distance along a scale, rotation of a shaft, or a voltage.
+The machine operator was called the computer. The history of computing hardware covers the developments from early simple devices to aid calculation to modern day computers and before the 20th century, most calculations were done by humans.

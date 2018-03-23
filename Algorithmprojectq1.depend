@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1512083883 source:c:\users\nikhil\documents\lab cpp\algorithmprojectq1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<ctime>
+	<cmath>
+	"KMPheader.h"
+	"LCSSheader.h"
+	"RabinKarp.h"
+
+1512083898 c:\users\nikhil\documents\lab cpp\algorithmprojectq1\include\kmpheader.h
+	<iostream>
+	<string>
+	<fstream>
+
+1512083906 c:\users\nikhil\documents\lab cpp\algorithmprojectq1\include\lcssheader.h
+	<iostream>
+	<string>
+
+1512083922 c:\users\nikhil\documents\lab cpp\algorithmprojectq1\include\rabinkarp.h
+	<iostream>
+	<string>
+
